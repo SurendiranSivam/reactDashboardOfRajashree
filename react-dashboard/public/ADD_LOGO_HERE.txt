@@ -1,0 +1,8 @@
+Please manually save your peacock logo to this location:
+C:\Antigravity_projects\Dashboard-main\react-dashboard\public\logo.png
+
+The logo should be the colorful peacock with:
+- Blue peacock
+- Rainbow feathers
+- Golden "R" letter
+- Transparent or white background
